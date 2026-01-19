@@ -5,4 +5,4 @@ Furthermore, the speaker addressed the growing use of artificial intelligence in
 
 In conclusion, the discussion reinforced the significance of the SDLC as a fundamental framework for developing reliable and high-quality software systems. It also highlighted the importance of applying artificial intelligence thoughtfully and responsibly in today’s rapidly evolving technological landscape, ensuring that it complements human expertise rather than replacing it.
 
-📄[Academic Writing]()
+📄[Academic Writing](https://github.com/AhnafZaizal/Project-Management-and-System-Development/blob/main/TIS%20ASG%203%20Group%204%20(4)%20(1).pdf)
